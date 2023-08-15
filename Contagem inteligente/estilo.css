@@ -1,0 +1,10 @@
+p {
+    font-size: 25px;
+}
+body {
+    margin: 0 auto;
+    width: 90%;
+    background-color: rgb(42, 68, 73);
+    font-family: Verdana, 'Lucida Sans Unicode', sans-serif;
+    border-radius: 10px;
+}
