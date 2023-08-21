@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(68, 95, 163);
+    
+   
+
+    
+}
+.form-control {
+    border-radius: 10px;
+    background-color: rgb(204, 214, 218);
+}
+.btn {
+    border-radius: 20px;
+    background-color: rgb(68, 95, 163);
+    color: rgb(15, 239, 147);
+    
+    
+}
+.titulo {
+    color: rgb(15, 239, 247);
+    font-size: 35px;
+    margin-left: 60px;
+ 
+}
+label {
+    
+}
+input{
+    background-color: aqua;
+
+}
+form, label {
+    display: block;
+    padding: 10px;
+}
+form {
+    background-color: aqua;
+    width: 30%;
+    text-align: center;
+    border-radius: 30px
+}

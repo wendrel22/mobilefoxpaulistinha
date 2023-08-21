@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(95, 95, 119);
+    text-align: center;
+}
+input {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+fieldset {
+    background-color: black;
+    border-radius: 15px;
+}
+legend {
+    background-color: aliceblue;
+    border-radius: 7px;
+    font-size: 30px;
+}
+label {
+    color: aliceblue;
+    font-size: 30px;
+}
+a {
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}

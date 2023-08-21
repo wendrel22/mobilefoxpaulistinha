@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(235, 182, 228);
+}
+input {
+    background-color: rgb(199, 117, 231);
+    border-radius:9px;
+    box-shadow:3px 3px 3px rgb(255, 0, 212);
+}
+textarea {
+    background-color: rgb(218, 218, 211);
+    border-radius: 15px;
+}
+h2 {
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow:3px 3px 3px rgb(255, 0, 212);
+}

@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(235, 164, 238);
+    color: white;
+    font-size: 40px;
+}
+select {
+    background-color: rgb(255, 0, 242);
+    border-radius: 5px;
+    color: white;
+    font-size: 40px;
+} 
